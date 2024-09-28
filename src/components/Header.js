@@ -30,7 +30,7 @@ const Header = () => {
                                 className="cart_icon"
                                 onClick={() => handleOpenCart(true)}
                             >
-                                <img src="/images/bag-icon.svg" alt="bag-icon" />
+                                <img src="./images/bag-icon.svg" alt="bag-icon" />
                                 <span className="badge">{cartQuantity}</span>
                             </div>
                         </div>
