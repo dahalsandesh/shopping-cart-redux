@@ -1,6 +1,6 @@
 # Responsive Shopping Cart with Redux Toolkit and React
 
-### [Demo Link](https://github.io/dahalsandesh/shopping-cart-redux) 🔗
+### [Demo Link](https://dahalsandesh.github.io/shopping-cart-redux/) 🔗
 
 **Shopping Cart Project** built with **React** + **Redux-Toolkit**.
 
