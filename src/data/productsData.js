@@ -1,7 +1,7 @@
 const productsData = [
     {
         id: 1,
-        img: "/images/prod1.png",
+        img: "./images/prod1.png",
         rating: "★★★★★",
         title: "boAt Airdopes 131",
         price: 1099,
@@ -9,7 +9,7 @@ const productsData = [
     },
     {
         id: 2,
-        img: "/images/prod2.png",
+        img: "./images/prod2.png",
         rating: "★★★★",
         title: "boAt BassHeads 228",
         price: 649,
@@ -17,7 +17,7 @@ const productsData = [
     },
     {
         id: 3,
-        img: "/images/prod3.png",
+        img: "./images/prod3.png",
         rating: "★★★★★",
         title: "JBL Live 660NC",
         price: 9999,
@@ -25,7 +25,7 @@ const productsData = [
     },
     {
         id: 4,
-        img: "/images/prod4.png",
+        img: "./images/prod4.png",
         rating: "★★★★★",
         title: "boAt Rockerz 255",
         price: 899,
@@ -33,7 +33,7 @@ const productsData = [
     },
     {
         id: 5,
-        img: "/images/prod5.png",
+        img: "./images/prod5.png",
         rating: "★★★★",
         title: "JBL Endurance Run Sports",
         price: 999,
@@ -41,7 +41,7 @@ const productsData = [
     },
     {
         id: 6,
-        img: "/images/prod6.png",
+        img: "./images/prod6.png",
         rating: "★★★★",
         title: "JBL Tune 230NC TWS",
         price: 5999,
@@ -49,7 +49,7 @@ const productsData = [
     },
     {
         id: 7,
-        img: "/images/prod7.png",
+        img: "./images/prod7.png",
         rating: "★★★★★",
         title: "boAt Rockerz 410",
         price: 1599,
@@ -57,7 +57,7 @@ const productsData = [
     },
     {
         id: 8,
-        img: "/images/prod8.png",
+        img: "./images/prod8.png",
         rating: "★★★★",
         title: "JBL Live 200BT",
         price: 3699,
